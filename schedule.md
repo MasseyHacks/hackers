@@ -10,7 +10,7 @@
 |10:00am to 11:00am	|Workshop: Introduction to Android Development |(room 150)|
 |  |Workshop: Introduction to Git and Github| (room 151)|
 |11:00am to 12:00pm     | Workshop: Continuation of Android Development |(room 150)|
-|11:30am- 12:30pm	|Workshop: Introduction to Unity Development |(room 150)|
+|11:30am- 12:30pm	|Workshop: Introduction to Unity Development |(room 152)|
 |  |Workshop: Introduction to Web Development |(room 151)|
 |12:30pm to 1:30pm	|Lunch |(cafeteria)|
 |2:00pm to 3:00pm|	Activity: Blind Coding |(room 150)|
