@@ -15,7 +15,7 @@
 |12:30pm to 1:30pm	|Lunch |(cafeteria)|
 |2:00pm to 3:00pm|	Activity: Blind Coding |(room 150)|
 |4:00pm to 5:00pm| Activity: Programming Challenge |(remote)|
-|6:00pm to 7:00pm|Diner| (cafeteria)|
+|6:00pm to 7:00pm|Dinner| (cafeteria)|
 |7:50pm	|Submissions |(Devpost)|
 |8:00pm to 8:30pm|	Demoes| (cafeteria)|
 |8:30pm to 9:00pm	|Closing Ceremony |(cafeteria)|
