@@ -19,3 +19,6 @@
 |7:50pm	|Submissions |(Devpost)|
 |8:00pm to 8:30pm|	Demoes| (cafeteria)|
 |8:30pm to 9:00pm	|Closing Ceremony |(cafeteria)|
+
+
+WiiU: will be in room 152 and will be available when the room isn't being used.
